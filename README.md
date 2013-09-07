@@ -12,6 +12,8 @@ Some subjects that might be fun to cover:
 - Meta-programming.
 - Working with closures.
 
+A glance at [Programming Praxis](http://programmingpraxis.com/) suggests that they often do algorithms, math, and bit-twiddling, which could be a good source of ideas. [Project Euler](http://projecteuler.net/) is also very math-y, but they already do such a good job that I'm not sure this format has much room to improve on it.
+
 Tools and Approach
 --------------------
 
