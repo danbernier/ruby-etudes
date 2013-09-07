@@ -1,6 +1,6 @@
 class Stuff
   # Current flog score: 10.8
-  # Target flog score: 6.7
+  # Target flog score: 2.5
   def contrived_yet_nasty(has_yirmish, is_ningle, amount)
     too_much = false
     if amount > 100
